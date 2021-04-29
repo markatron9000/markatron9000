@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Matis, a computer science student from Texas!</h1>
- <h3>Welcome to my profile!</h3> 
+ <h3>Welcome to my profile! :)</h3> 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=markatron9000&label=Profile%20views&color=0e75b6&style=flat" alt="markatron9000" /> </p> -->
 <!--
